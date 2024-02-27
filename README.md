@@ -9,5 +9,3 @@ This project explores the art of prompt engineering with AI models. It highlight
 Edwin Prayoga
 
 Infinite Learning IBM Advance AI
-
-Fariq
